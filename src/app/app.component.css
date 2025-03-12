@@ -1,0 +1,31 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+mat-toolbar{
+  background-color: #2A3F54;
+  color: #fff;
+}
+
+.example-container {
+  width: 100%;
+  height: 100%;
+}
+
+.example-sidenav-content {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.example-sidenav {
+  padding: 20px;
+  background-color: #2A3F54;
+  width: 100%;
+  max-width: 235px;
+}
+
+mat-drawer{
+  color: #fff;
+}
